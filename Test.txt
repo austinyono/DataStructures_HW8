@@ -1,0 +1,142 @@
+Script started on Sat 25 Apr 2020 10:40:48 PM PDT
+]0;yono002@empress:~/CS311/CS311Progs/HWPrograms/forHW8[?1034h[yono002@empress forHW8]$ g++ hw8client.cpp slist.cpp llist.cpp htable.cpp elem. cpp
+]0;yono002@empress:~/CS311/CS311Progs/HWPrograms/forHW8[yono002@empress forHW8]$ ./a.out
+Input the amount of names:
+20
+Input ID number:
+101
+Input name:
+Austin
+Input ID number:
+102
+Input name:
+Anthony
+Input ID number:
+201
+Input name:
+Junior
+Input ID number:
+203
+Input name:
+Royal
+Input ID number:
+204
+Input name:
+Amery
+Input ID number:
+206
+Input name:
+Natasha
+Input ID number:
+20301
+Input name:
+Ronnie
+Input ID number:
+302
+Input name:
+RoyaJacob
+Input ID number:
+303
+Input name:
+Thomas
+Input ID number:
+304
+Input name:
+Lorien
+Input ID number:
+305
+Input name:
+Belsam
+Input ID number:
+307
+Input name:
+Everly
+Input ID number:
+405
+Input name:
+Lively
+Input ID number:
+56
+Input name:
+Matthew
+Input ID number:
+572
+Input name:
+Patrick
+Input ID number:
+606
+Input name:
+Daniel
+Input ID number:
+607
+Input name:
+Alvin
+Input ID number:
+609
+Input name:
+Adrian
+Input ID number:
+615
+Input name:
+Justin
+Input ID number:
+
+618
+Input name:
+SawsJay
+0:[ EMPTY ]
+1:[ EMPTY ]
+2:[ EMPTY ]
+3:[ EMPTY ]
+4:[ EMPTY ]
+5:[ 301+Ronnie ]
+6:[ 302+Jacob ]
+7:[ 303+Thomas ]
+8:[ 304+Lorien ]
+9:[ 305+Belsam ]
+10:[ EMPTY ]
+11:[ 307+Everly ]
+12:[ EMPTY ]
+13:[ EMPTY ]
+14:[ 606+Daniel ]
+15:[ 607+Alvin ]
+16:[ 201+Junior ]
+17:[ 572+Patrick 609+Adrian ]
+18:[ 203+Royal ]
+19:[ 204+Amery 56+Matthew ]
+20:[ EMPTY ]
+21:[ 206+Natasha ]
+22:[ EMPTY ]
+23:[ 615+Justin ]
+24:[ EMPTY ]
+25:[ EMPTY ]
+26:[ 618+Jay ]
+27:[ 101+Austin ]
+28:[ 102+Anthony ]
+29:[ EMPTY ]
+30:[ EMPTY ]
+31:[ EMPTY ]
+32:[ EMPTY ]
+33:[ EMPTY ]
+34:[ EMPTY ]
+35:[ 405+Lively ]
+36:[ EMPTY ]
+Input a key number:
+51
+51 not found.
+Continue: (Y / N)?
+Y
+Input a key number:
+201
+Found 201+Junior
+Continue: (Y / N)?
+Y
+Input a key number:
+102
+Found 102+Anthony
+Continue: (Y / N)?
+N
+]0;yono002@empress:~/CS311/CS311Progs/HWPrograms/forHW8[yono002@empress forHW8]$ exit
+exit
+
+Script done on Sat 25 Apr 2020 10:43:58 PM PDT
